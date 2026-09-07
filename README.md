@@ -58,3 +58,12 @@ The dashboard helps identify:
 - KPI creation
 - Data visualization
 - Business insights generation
+
+
+## 📊 Dashboard Preview
+
+![Pizza Sales Dashboard](pizza-sales-dashboard.png)
+
+## 📈 Sales Analysis
+
+![Pizza Sales Analysis](pizza-sales-analysis.png)
